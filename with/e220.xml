@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crop_pic</folder>
+	<filename>e220.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\Design\emekapics\image_with_mask\crop_pic\e220.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>86</width>
+		<height>77</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_facemask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>31</ymin>
+			<xmax>63</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>
